@@ -1,4 +1,4 @@
-# real_chat_flutter
+# chat with socket io flutter
 
 A new Flutter project.
 
